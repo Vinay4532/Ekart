@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-14T23:58:03 IST" name="Suite" finished-at="2025-07-14T23:58:23 IST" duration-ms="20069">
+    <groups>
+    </groups>
+    <test started-at="2025-07-14T23:58:03 IST" name="Test" finished-at="2025-07-14T23:58:23 IST" duration-ms="20069">
+      <class name="Ekart.Tests.SubmitOrder">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:Ekart.Tests.SubmitOrder@15d49048]" started-at="2025-07-14T23:58:03 IST" name="launchApplication" finished-at="2025-07-14T23:58:09 IST" duration-ms="6019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="SubmitOrder()[pri:0, instance:Ekart.Tests.SubmitOrder@15d49048]" started-at="2025-07-14T23:58:09 IST" name="SubmitOrder" finished-at="2025-07-14T23:58:22 IST" duration-ms="13683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitOrder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Ekart.Tests.SubmitOrder@15d49048]" started-at="2025-07-14T23:58:22 IST" name="tearDown" finished-at="2025-07-14T23:58:23 IST" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Ekart.Tests.SubmitOrder -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
