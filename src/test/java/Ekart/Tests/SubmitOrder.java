@@ -16,6 +16,7 @@ public class SubmitOrder extends BaseTest{
 		Thread.sleep(2000);
 		LandingPage l1	=	new LandingPage(driver);
 		l1.landingPage("pavanol", "test@123");
+		//output is obtained
 		
 		
 	}
